@@ -1,0 +1,9 @@
+.social { background-repeat: no-repeat; background-position: center; border-radius: 10px; display: inline-block; }
+.social.facebook { background-color: #3B5998; }
+.social.facebook.sixteen { background-image: url("https://raw.github.com/danleech/simple-icons/master/icons/facebook/facebook-16.png"); height: 16px; width: 16px; }
+.social.facebook.thirtytwo { background-image: url("https://raw.github.com/danleech/simple-icons/master/icons/facebook/facebook-32.png"); height: 32px; width: 32px; }
+.social.facebook.sixtyfour { background-image: url("https://raw.github.com/danleech/simple-icons/master/icons/facebook/facebook-64.png"); height: 64px; width: 64px; }
+.social.twitter { background-color: #39A9E0; }
+.social.twitter.sixteen { background-image: url("https://raw.github.com/danleech/simple-icons/master/icons/twitter/twitter-16.png"); height: 16px; width: 16px; }
+.social.twitter.thirtytwo { background-image: url("https://raw.github.com/danleech/simple-icons/master/icons/twitter/twitter-32.png"); height: 32px; width: 32px; }
+.social.twitter.sixtyfour { background-image: url("https://raw.github.com/danleech/simple-icons/master/icons/twitter/twitter-64.png"); height: 64px; width: 64px; }

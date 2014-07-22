@@ -1,0 +1,233 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    background: #34A4BA;
+     /* Old browsers */
+
+
+    }
+
+html, body {
+
+    height: 100%;
+    font-family: "proxima_nova","Helvetica Neue",sans-serif;
+    background-image: url("/assets/images/oldmoon.png");
+    color: black
+
+
+
+}
+
+main.sunset {
+    background-image: url("/assets/images/bikesunset.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    color: white;
+
+
+}
+
+header nav {
+    float: right;
+}
+
+header nav ul {
+    float: left;
+}
+
+header nav ul li {
+    display: inline-block;
+    list-style: none;
+    padding: 0 15px;
+    font-family: 'Open Sans', sans-serif;
+}   
+    
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+    line-height: 60px;
+}
+
+header nav ul li a:hover {
+    color: turquoise;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 1000px;
+}
+
+@media only screen and (max-width: 30em) {
+    .wrapper {
+        width: 100%;
+
+    }
+}
+
+ .content {
+    margin: 20px auto;
+
+}
+
+
+
+.pricing {
+    width: 100%;
+
+
+}
+
+.pricing article:last-child {
+    border-right: 1px solid black;
+
+}
+
+
+
+.pricing article {
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+
+    float: left;
+    width: 50%;
+    text-align: center;
+    border-left: 1px solid black;
+    padding: 20px;
+   
+   
+
+
+}
+
+.pricing article i {
+    font-size: 50px;
+     margin-top: 30px;
+   }
+
+.pricing article h2 {
+    font-size: 30px;
+
+}
+.pricing article p:last-child { 
+    margin-bottom: 30px;
+
+} 
+
+
+.landing_cover .wrapper h1 {
+    font-size: 50px;
+    padding-top: 157px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-weight: normal;
+
+}
+
+footer {
+
+}
+p {
+    margin: 15px 0;
+    font-family: 'Droid Serif', serif;
+}
+
+footer .copyright {
+    float: left;
+    width: 50%;
+
+}
+
+footer .copyright p {
+        font-family: "Open Sans", sans-serif;
+}
+
+
+header .social_section {
+    float: right;
+    margin-top: 15px;
+    text-align: right;
+   
+}
+
+main .contact {
+    font-family: "Open Sans", sans-serif;
+}
+
+.clearfix:after {
+content: "";
+    display: table;
+    clear: both;
+}
+
+.dynami {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.dynami .row .image {
+    float: left;
+    width: 150px;
+
+}
+
+.dynami .row .bio {
+    float: left;
+    width: 850px;
+    -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+    box-sizing: border-box;         /* Opera/IE 8+ */
+    padding: 25px;
+
+}
+
+.content .row div {
+    float: left;
+    width: 33%;
+
+
+
+}
+.content .row div img {
+    float: left;
+}
+
+.content .row div p {
+    margin: 3px 0;
+    padding: 4px;
+}
+
+
+.content .row div h3 {
+    margin-top: 10px;
+
+}
+
+.title {
+    text-align: center;
+    font-size: 70px;
+}
+
+.phone {
+    float: left;
+    width: 150px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
